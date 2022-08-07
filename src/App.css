@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.bg-myRed{
+  background-color: brown;
+}
+
+.content{
+  margin-top: 50px;
+  padding: 12px;
+  height: 3000px;
+}
+
+.readyPlayerBox{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.Status-box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
